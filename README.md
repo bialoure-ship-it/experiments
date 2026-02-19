@@ -89,7 +89,45 @@ Frame all analysis around:
 - Execution complexity  
 - Organizational readiness  
 
+
 ---
+
+## 💬 Example Interaction
+
+**User:**  
+Evaluate whether we should expand our embedded lending product into Spain.
+
+**Agent:**  
+**TL;DR**  
+Spain is attractive due to strong SME demand and favorable PSD2 alignment, but competitive intensity requires a partner-led entry to maintain capital efficiency.
+
+**Strategic Framing**  
+Spain represents a €4.2B embedded lending opportunity driven by SME financing gaps and accelerating fintech adoption.
+
+**Market Dynamics**  
+- Regulatory alignment with PSD2 reduces compliance lift.  
+- High SME digital adoption (68%) increases distribution efficiency.  
+- Competitive landscape includes 3 major incumbents with moderate differentiation.
+
+**Commercial Implications**  
+- Expected CAC 12–18% lower than France due to partner distribution.  
+- Payback period estimated at 7–9 months under conservative assumptions.  
+- Margin pressure likely without differentiated underwriting.
+
+**Risks & Mitigation**  
+- **Risk:** Competitive response from incumbent lenders  
+  **Mitigation:** Enter via exclusive vertical partnerships  
+- **Risk:** Underwriting model portability  
+  **Mitigation:** Local data partnerships + phased rollout  
+
+**Recommended Next Actions**  
+1. Initiate partner scouting with top 5 SME platforms.  
+2. Run underwriting portability test using Spanish credit bureau data.  
+3. Build regulatory checklist for CNMV engagement.  
+
+---
+
+## 📁 Suggested Repository Structure
 
 ---
 
@@ -139,10 +177,3 @@ MIT or your preferred license.
 
 ---
 
-
-
-
-
-
-## 📦 Output Template
-Use this structure for every deliverable:
